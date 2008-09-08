@@ -1,0 +1,11 @@
+# cat=basic; type=string; label= API Key: Your API Key from Wordpress.com (http://wordpress.com/api-keys/)
+apiKey = 
+
+# cat=basic; type=string; label= Your Blog/Homepage URL
+homepageUrl = http://www.yourpage.com
+
+# cat=basic; type=string; label=Spam Handling: What should be done with Spam Comments 0 = nothing, 1 = hide (default), 2 = delete, 3 = "hard" delete (remove DIRECTLY from Database)
+spamHandling = 1 
+
+# cat=basic; type=boolean; label=Enable XCLASS: Enable the XCLASSing of the List module for direct spam handling
+xclass = true

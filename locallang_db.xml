@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'mf_akismet'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_veguestbook_entries.tx_mfakismet_isspam">Marked as SPAM</label>
+			<label index="tx_veguestbook_entries.tx_mfakismet_error">Akismet Error</label>
+			<label index="tx_veguestbook_entries.tx_mfakismet_nospam">mark as "no spam"</label>
+			<label index="tx_veguestbook_entries.tx_mfakismet_spam">mark as "spam"</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tx_veguestbook_entries.tx_mfakismet_isspam">Als SPAM eingestuft</label>
+			<label index="tx_veguestbook_entries.tx_mfakismet_error">Akismet Fehler</label>
+			<label index="tx_veguestbook_entries.tx_mfakismet_nospam">Ist kein spam</label>
+			<label index="tx_veguestbook_entries.tx_mfakismet_spam">Ist spam</label>
+		</languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,8 @@
+07-04-22 Michael Feinbier	<typo3@feinbier.net>
+	*	Added Spamreporting to Akismet
+	* 	Selection of how to handle spamcomments
+	* 	XCLASS for the list module
+
+07-03-25 Michael Feinbier  <typo3@feinbier.net>
+
+	* Initial release
